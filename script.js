@@ -59,7 +59,7 @@ document.getElementById('feedback-form').addEventListener('submit', function (ev
 
     const formData = new FormData(this);
 
-    fetch('https://formcarry.com/s/5VY-8uLrxnS', {
+    fetch('https://formcarry.com/s/sHlef_x60u9', {
         method: 'POST',
         body: formData,
         headers: {
